@@ -1,2 +1,4 @@
 uploads/
 mu-plugins/
+object-cache.php
+mysql.sql
